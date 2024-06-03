@@ -10,7 +10,6 @@ console.log(typeof sportJo)
 console.log(yearJo)
 console.log(cities)
 
-
 // Structures de code
 for (let city of cities) {
     console.log(city)
